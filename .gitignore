@@ -174,7 +174,6 @@ publish/
 # but database connection strings (with potential passwords) will be unencrypted
 *.pubxml
 *.publishproj
-*.csproj
 *.json
 
 # Microsoft Azure Web App publish settings. Comment the next line if you want to
